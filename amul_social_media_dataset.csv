@@ -1,0 +1,31 @@
+post_id,date,platform,post_type,topic_category,campaign,caption_theme,likes,comments,shares,saves,reach,impressions,engagements,engagement_rate_pct
+AMUL_001,2026-08-15,Instagram,Carousel,Festival & Culture,Independence Day,Patriotic Amul Girl creative,48200,1240,3900,5100,620000,780000,58440,9.43
+AMUL_002,2026-08-20,Instagram,Reel,Product Education,Everyday Dairy,Butter toast recipe,61500,2100,7200,9800,910000,1180000,80600,8.86
+AMUL_003,2026-08-24,Instagram,Static,Topical Commentary,Cricket,Match-winning performance pun,74300,3400,11200,6700,1240000,1590000,95600,7.71
+AMUL_004,2026-08-28,Instagram,Reel,Recipe,#AmulRecipes,Paneer starter recipe,55800,1800,6400,12400,830000,1070000,76400,9.2
+AMUL_005,2026-09-02,Instagram,Carousel,Topical Commentary,Bollywood,Film release pun,39600,1500,4800,3900,540000,690000,49800,9.22
+AMUL_006,2026-09-05,Instagram,Reel,Festival & Culture,Ganesh Chaturthi,Festival recipe,67900,2300,8900,10200,1020000,1310000,89300,8.75
+AMUL_007,2026-09-09,Instagram,Static,Product Education,Butter,Fun dairy fact,28400,760,1500,2600,360000,450000,33260,9.24
+AMUL_008,2026-09-12,Instagram,Reel,Topical Commentary,Viral Trend,Trend-based Amul Girl Reel,88700,4100,15600,7300,1560000,2010000,115700,7.42
+AMUL_009,2026-09-16,Instagram,Carousel,Recipe,#AmulRecipes,Ice cream dessert recipe,44100,1300,3900,8800,590000,750000,58100,9.85
+AMUL_010,2026-09-20,Instagram,Static,Brand Heritage,Taste of India,Farmer cooperative story,31200,980,2100,4300,410000,520000,38580,9.41
+AMUL_011,2026-09-24,Instagram,Reel,Product Education,Cheese,Cheese melting test,59600,1900,5900,9100,870000,1120000,76500,8.79
+AMUL_012,2026-09-28,Instagram,Carousel,Topical Commentary,Politics,Light-hearted current-affairs pun,35800,1900,5400,3100,500000,640000,46200,9.24
+AMUL_013,2026-10-01,Instagram,Reel,Festival & Culture,Navratri,Festive recipe,72400,2600,9800,11600,1120000,1440000,96400,8.61
+AMUL_014,2026-10-05,Instagram,Static,Topical Commentary,Cricket,T20 moment pun,66900,3100,9700,5800,1090000,1400000,85500,7.84
+AMUL_015,2026-10-09,Instagram,Reel,Recipe,#AmulRecipes,Quick breakfast recipe,51300,1600,5100,10900,760000,970000,68900,9.07
+AMUL_016,2026-10-13,Instagram,Carousel,Product Education,Milk,Milk storage tips,26900,690,1200,3300,340000,430000,32090,9.44
+AMUL_017,2026-10-17,Instagram,Reel,Topical Commentary,Bollywood,Viral dialogue reference,82500,3900,13800,8100,1470000,1890000,108300,7.37
+AMUL_018,2026-10-21,Instagram,Static,Festival & Culture,Diwali,Diwali greeting creative,57400,2100,7600,8700,890000,1140000,75800,8.52
+AMUL_019,2026-10-25,Instagram,Reel,Recipe,#AmulRecipes,Diwali sweet recipe,78300,3100,12400,15300,1310000,1680000,109100,8.33
+AMUL_020,2026-10-27,Instagram,Carousel,Topical Commentary,Sports,Sports achievement pun,47800,2200,7100,4600,680000,870000,61700,9.07
+AMUL_021,2026-08-18,Facebook,Static,Topical Commentary,Cricket,Match reaction creative,39400,1800,5200,0,720000,0,46400,6.44
+AMUL_022,2026-09-03,Facebook,Video,Recipe,#AmulRecipes,Paneer recipe video,47800,2100,7800,0,880000,0,57700,6.56
+AMUL_023,2026-09-11,Facebook,Static,Festival & Culture,Ganesh Chaturthi,Festival greeting,33600,1400,4100,0,610000,0,39100,6.41
+AMUL_024,2026-09-19,Facebook,Video,Product Education,Butter,Butter usage ideas,29800,1100,2900,0,530000,0,33800,6.38
+AMUL_025,2026-10-04,Facebook,Static,Topical Commentary,Bollywood,Film release pun,36500,1700,5600,0,660000,0,43800,6.64
+AMUL_026,2026-10-12,Facebook,Video,Recipe,#AmulRecipes,Festive dessert,52300,2400,8900,0,940000,0,63600,6.77
+AMUL_027,2026-10-20,Facebook,Static,Brand Heritage,Taste of India,Farmer story,24700,890,1800,0,430000,0,27390,6.37
+AMUL_028,2026-08-22,X,Static,Topical Commentary,Cricket,Match reaction,18400,940,3600,0,410000,0,22940,5.6
+AMUL_029,2026-09-08,X,Static,Topical Commentary,Bollywood,Film release pun,12600,620,2400,0,290000,0,15620,5.39
+AMUL_030,2026-10-16,X,Static,Topical Commentary,Viral Trend,Trend response,21700,1250,5100,0,520000,0,28050,5.39
